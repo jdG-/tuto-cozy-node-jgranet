@@ -1,6 +1,6 @@
 {
-  "name": "tructructructruc",
-  "cozy-displayName": "tructructructruc",
+  "name": "cozy-tutorial",
+  "cozy-displayName": "COZY TUTO",
   "version": "1.0.0",
   "description": "Tutorial to learn building a Node.js Cozy application",
   "main": "server.js",
